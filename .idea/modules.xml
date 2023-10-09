@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jft.iml" filepath="$PROJECT_DIR$/jft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SandBox.iml" filepath="$PROJECT_DIR$/SandBox.iml" />
     </modules>
   </component>
 </project>
